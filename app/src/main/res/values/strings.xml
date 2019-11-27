@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Days Away Project</string>
+    <string name="title_activity_secret_puzzle">SecretPuzzleActivity</string>
+</resources>
